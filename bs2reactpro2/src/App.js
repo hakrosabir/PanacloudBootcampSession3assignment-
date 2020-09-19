@@ -14,7 +14,7 @@ function App() {
       <Pakistan province ="KPK" >  </Pakistan>
       <Pakistan province ="Balochistan"></Pakistan>
       <Pakistan province ="Gilgit Baltistan" >  </Pakistan>
-      <h1 class="h1">Big Cities of Pakistan</h1>
+      <h1 class="h1">Big Cities of Pakistan <br/></h1>
       <BigCities BigCity="Karachi" province= 'Sindh' ></BigCities>
       <BigCities BigCity="Lahore" province= 'Punjab' ></BigCities>
       <BigCities BigCity="Peshawar" province= 'KPK' ></BigCities>
