@@ -8,7 +8,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1 class='h1'>Provinces Of Pakistan</h1>
+      <h1 class='h1'>Provinces Of Pakistan <br/></h1>
       <Pakistan province ="Sindh" >  </Pakistan>
       <Pakistan province ="Punjab"></Pakistan>
       <Pakistan province ="KPK" >  </Pakistan>
